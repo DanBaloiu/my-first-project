@@ -17,5 +17,6 @@ The Coding Club website is a landing page for parents and children looking for a
 - Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
 ## Markdown practice
 Building | a table | with markdown
+--- | --- | ---
 _italic text_ | __bold text__ | ```javascrip inline code```
 42 | 400 | 97
