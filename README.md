@@ -18,5 +18,5 @@ The Coding Club website is a landing page for parents and children looking for a
 ## Markdown practice
 Building | a table | with markdown
 --- | --- | ---
-_italic text_ | __bold text__ | ```javascrip inline code```
+_italic text_ | __bold text__ | ```inline code```
 42 | 400 | 97
